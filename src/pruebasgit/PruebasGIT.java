@@ -9,7 +9,7 @@ public class PruebasGIT {
         // TODO code application logic here
         Scanner teclado = new Scanner(System.in);
                 
-        String[] alumnos = {"Torito","Pepito","Fulanito","Concha","Chirajita"};
+        String[] alumnos = {"Jose","Juan","Fulanito","Concha","Chirajita"};
         int[] notas = {5,8,3,7,10};
        
         String buscar = "";
